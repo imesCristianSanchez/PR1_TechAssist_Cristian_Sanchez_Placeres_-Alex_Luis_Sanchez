@@ -16,6 +16,5 @@ El sistema contempla las intervenciones de los técnicos en las incidencias, los
 
 Archivos del proyecto
 
-
-Estado del proyecto
-
+En el repositorio, se encuentran 3 archivos. En /diagramas, se encuentran los dos diagramas con su nombre correspondiente. Uno es un diagrama Entidad - Relación completo del ejercicio. El otro, es un diagrama visual de las tablas, usando el diagrama Entidad - Relación anterior.
+En /documentos, se puede encontrar el documento de la práctica en PDF, completo y con su nombre.
