@@ -1,1 +1,4 @@
-# PR1_TechAssist_Cristian_Sanchez_Placeres_-Alex_Luis_Sanchez
+# PR1_TechAssist
+Creadores:
+Cristian Sánchez Placeres  
+Alex Luis sanchez
